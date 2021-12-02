@@ -1,6 +1,6 @@
-### Hi there, I'm Bhupesh Mahara.
+# Hi there...
 
-# An Enthusiast in Data Science, Machine Leanring, AI, Deep Learning.
+## An Enthusiast in Data Science, Machine Leanring, AI, Deep Learning.
 
 - 🌱 Currently a Software Engineer in XYZ
 - 👯 Looking to contribute to more open source projects
