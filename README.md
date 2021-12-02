@@ -8,12 +8,6 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/bhupeshmahara_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="bhupeshmahara_" height="30" width="40" /></a>
-[<img align="left" alt="Bhupesh Mahara" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Bhupesh Mahara" | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-
-<br />
-
-[twitter]: https://twitter.com/bhupeshmahara_
-[linkedin]: https://www.linkedin.com/in/bhupeshmahara/
-[kaggle]: https://www.kaggle.com/frostyv
+<a href="https://twitter.com/bhupeshmahara_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="bhupeshmahara_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhupeshmahara/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="bhupeshmahara" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/frostyv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" alt="bhupeshmahara" height="30" width="40" /></a>
