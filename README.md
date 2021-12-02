@@ -1,6 +1,6 @@
-# Hi there...
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## An Enthusiast in Data Science, Machine Leanring, AI, Deep Learning.
+## Bhupesh here, an Enthusiast in Data Science, Machine Leanring, AI, Deep Learning.
 
 - 🌱 Currently a Software Engineer in XYZ
 - 👯 Looking to contribute to more open source projects
