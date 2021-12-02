@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Bhupesh Mahara.
 
-<!--
-**bhupeshmahara/bhupeshmahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## An Enthusiast in Data Science, Machine Leanring, AI, Deep Learning.
 
-Here are some ideas to get you started:
+- 🌱 Currently a Software Engineer in XYZ
+- 👯 Looking to contribute to more open source projects
+- ⚡ Fun fact: I love Football and Badminton
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Bhupesh Mahara" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Bhupesh Mahara" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Bhupesh Mahara" | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+
+<br />
+
+[twitter]: https://twitter.com/uk04frostyV
+[linkedin]: https://www.linkedin.com/in/bhupeshmahara/
+[kaggle]: https://www.kaggle.com/frostyv
