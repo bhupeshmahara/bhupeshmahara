@@ -1,5 +1,4 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Bhupesh...
-
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## An Enthusiast in Data Science, Machine Leanring and Artificial Intelligence.
 
 - 🌱 Working as a Software Engineer in TCS
