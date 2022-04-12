@@ -1,9 +1,9 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Bhupesh...
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Bhupesh...
 
 ## An Enthusiast in Data Science, Machine Leanring and Artificial Intelligence.
 
 - 🌱 Working as a Software Engineer in TCS
-- 📕 Currently learning Data Science and Machine Learning basics
+- 📕 Currently learning Data Science and Machine Learning
 - 👯 Looking to contribute to more open source projects
 - ⚡ Fun fact: I love Football and Badminton
 
