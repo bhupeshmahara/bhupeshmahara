@@ -10,6 +10,5 @@
 
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" />](https://twitter.com/bhupeshmahara_/)
 [<img alt="Github" src="https://img.shields.io/badge/Github-1DA1F2?style=plastic&logo=github&logoColor=white" />](https://github.com/bhupeshmahara/)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=plastic&logo=github&logoColor=white" />](https://www.linkedin.com/in/bhupeshmahara/)
-<a href="https://www.linkedin.com/in/bhupeshmahara/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="bhupeshmahara" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/frostyv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" alt="bhupeshmahara" height="30" width="40" /></a>
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=plastic&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bhupeshmahara/)
+[<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-1DA1F2?style=plastic&logo=kaggle&logoColor=white" />](https://www.kaggle.com/frostyv/)
