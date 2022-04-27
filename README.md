@@ -8,8 +8,15 @@
 
 ## Connect with me:
 
-<a href="https://twitter.com/bhupeshmahara_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhupeshmahara_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bhupeshmahara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupeshmahara" height="30" width="40" /></a>
+<a href="https://twitter.com/bhupeshmahara_/" target="blank">
+     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"                        alt="bhupeshmahara_" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/bhupeshmahara/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"                 alt="bhupeshmahara" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/bhupeshmahara/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
+</a>
 <a href="https://github.com/bhupeshmahara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bhupeshmahara" height="30" width="40" /></a>
 
 [<img alt="Github" src="https://img.shields.io/badge/Github-1DA1F2?style=plastic&logo=github&logoColor=white" />](https://github.com/bhupeshmahara/)
