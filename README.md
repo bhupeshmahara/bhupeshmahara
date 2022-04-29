@@ -20,3 +20,8 @@
     <img src="https://profile-counter.glitch.me/{bhupeshmahara}/count.svg" />
   </a>
 </p>
+
+## Activity
+<a href="https://github.com/bhupeshmahara/github-readme-activity-graph">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=bhupeshmahara&theme=material-palenight" />
+</a>
