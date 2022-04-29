@@ -20,3 +20,11 @@
     <img src="https://profile-counter.glitch.me/{bhupeshmahara}/count.svg" />
   </a>
 </p>
+
+## Languages and Tools
+
+<img width="40" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
+<img width="40" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg">
+<img width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
+<img width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+<img width="40" src="https://github.com/ShruAgarwal/ParthGohil21-1/blob/main/matplotlib.png">
