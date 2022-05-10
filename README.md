@@ -13,15 +13,3 @@
 <a href="https://www.linkedin.com/in/bhupeshmahara/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a href="https://github.com/bhupeshmahara"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.kaggle.com/frostyv/"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-
-## Visitors Count:
-<p>
-  <a href="https://github.com/bhupeshmahara/github-profile-count">
-    <img src="https://profile-counter.glitch.me/{bhupeshmahara}/count.svg" />
-  </a>
-</p>
-
-## Activity:
-<a href="https://github.com/bhupeshmahara/github-readme-activity-graph">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=bhupeshmahara&theme=material-palenight" />
-</a>
