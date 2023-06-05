@@ -4,7 +4,7 @@
 - 🌱 Working as a Software Engineer in India
 - 📕 Currently learning Data Science and Machine Learning
 - 👯 Looking to contribute to more open source projects
-- ⚡ Fun fact: Football is love
+<!-- ⚡ Fun fact: Football is love -->
 
 ## Connect with me
 
