@@ -1,9 +1,9 @@
 # Hi
 ## I'm Bhupesh , a Data Science, Machine Leanring and Artificial Intelligence Enthusiast.
 
-- 🌱 Working as a Software Engineer in India
-- 📕 Currently learning Data Science and Machine Learning
-- 👯 Looking to contribute to more open source projects
+- 🌱 Working as a Sr. Data Scientist
+- 📕 Currently learning Generative AI and LLMs
+<!-- - 👯 Looking to contribute to more open source projects -->
 <!-- ⚡ Fun fact: Football is love -->
 
 ## Connect with me
